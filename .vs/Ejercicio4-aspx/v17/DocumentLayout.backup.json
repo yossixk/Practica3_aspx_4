@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{F653831C-C0DE-4CF6-BF64-A38A5438B1C1}|Ejercicio4-aspx\\Ejercicio4-aspx.csproj|solutionrelative:ejercicio4-aspx\\new1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F653831C-C0DE-4CF6-BF64-A38A5438B1C1}|Ejercicio4-aspx\\Ejercicio4-aspx.csproj|c:\\users\\mineducyt\\onedrive\\documentos\\aspx-arcides\\ejercicio4_aspx\\ejercicio4-aspx\\ejercicio4-aspx\\new1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F653831C-C0DE-4CF6-BF64-A38A5438B1C1}|Ejercicio4-aspx\\Ejercicio4-aspx.csproj|C:\\Users\\MINEDUCYT\\OneDrive\\Documentos\\aspx-arcides\\Ejercicio4_aspx\\Ejercicio4-aspx\\ejercicio4-aspx\\new1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F653831C-C0DE-4CF6-BF64-A38A5438B1C1}|Ejercicio4-aspx\\Ejercicio4-aspx.csproj|solutionrelative:ejercicio4-aspx\\new1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F653831C-C0DE-4CF6-BF64-A38A5438B1C1}|Ejercicio4-aspx\\Ejercicio4-aspx.csproj|c:\\users\\mineducyt\\onedrive\\documentos\\aspx-arcides\\ejercicio4_aspx\\ejercicio4-aspx\\ejercicio4-aspx\\new2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F653831C-C0DE-4CF6-BF64-A38A5438B1C1}|Ejercicio4-aspx\\Ejercicio4-aspx.csproj|solutionrelative:ejercicio4-aspx\\new2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F653831C-C0DE-4CF6-BF64-A38A5438B1C1}|Ejercicio4-aspx\\Ejercicio4-aspx.csproj|c:\\users\\mineducyt\\onedrive\\documentos\\aspx-arcides\\ejercicio4_aspx\\ejercicio4-aspx\\ejercicio4-aspx\\new2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F653831C-C0DE-4CF6-BF64-A38A5438B1C1}|Ejercicio4-aspx\\Ejercicio4-aspx.csproj|solutionrelative:ejercicio4-aspx\\new2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +26,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "New2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\OneDrive\\Documentos\\aspx-arcides\\Ejercicio4_aspx\\Ejercicio4-aspx\\Ejercicio4-aspx\\New2.aspx.cs",
+              "RelativeDocumentMoniker": "Ejercicio4-aspx\\New2.aspx.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\OneDrive\\Documentos\\aspx-arcides\\Ejercicio4_aspx\\Ejercicio4-aspx\\Ejercicio4-aspx\\New2.aspx.cs",
+              "RelativeToolTip": "Ejercicio4-aspx\\New2.aspx.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T03:32:05.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "New2.aspx",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\OneDrive\\Documentos\\aspx-arcides\\Ejercicio4_aspx\\Ejercicio4-aspx\\Ejercicio4-aspx\\New2.aspx",
+              "RelativeDocumentMoniker": "Ejercicio4-aspx\\New2.aspx",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\OneDrive\\Documentos\\aspx-arcides\\Ejercicio4_aspx\\Ejercicio4-aspx\\Ejercicio4-aspx\\New2.aspx",
+              "RelativeToolTip": "Ejercicio4-aspx\\New2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-06T03:30:22.526Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -39,8 +73,8 @@
               "Title": "New1.aspx",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\OneDrive\\Documentos\\aspx-arcides\\Ejercicio4_aspx\\Ejercicio4-aspx\\Ejercicio4-aspx\\New1.aspx",
               "RelativeDocumentMoniker": "Ejercicio4-aspx\\New1.aspx",
-              "ToolTip": "C:\\Users\\MINEDUCYT\\OneDrive\\Documentos\\aspx-arcides\\Ejercicio4_aspx\\Ejercicio4-aspx\\Ejercicio4-aspx\\New1.aspx",
-              "RelativeToolTip": "Ejercicio4-aspx\\New1.aspx",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\OneDrive\\Documentos\\aspx-arcides\\Ejercicio4_aspx\\Ejercicio4-aspx\\Ejercicio4-aspx\\New1.aspx*",
+              "RelativeToolTip": "Ejercicio4-aspx\\New1.aspx*",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-03-06T03:18:07.005Z",
